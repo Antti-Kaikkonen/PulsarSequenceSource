@@ -1,0 +1,5 @@
+name: sequence_source
+tenant: public
+namespace: default
+description: A source connector for testing and benchmarking --processing-guarantees EFFECTIVELY_ONCE
+sourceClass: SequenceSource
